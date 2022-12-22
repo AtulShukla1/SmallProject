@@ -19,7 +19,7 @@ function App() {
     btn={"HTML"}/>
     
     <Cards 
-    title={"Node JS"} 
+    title={"Nodejs and Express"} 
     src={"https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}
     description={"This image tell you about something about anything which we use"}
     btn={"Node JS"}/>
